@@ -1,0 +1,8 @@
+This is a test file added to verify CommitNote webhook integration.
+
+When this PR is merged, CommitNote should:
+1. Receive the webhook event
+2. Process the PR details
+3. Generate a summary using AI
+4. Store it in the database
+
